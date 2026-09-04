@@ -8,10 +8,10 @@ Static files on `main`. Same layout as [picophone.net](https://github.com/truman
 
 The site files are on `main`. Turn Pages on once:
 
-1. Open [Pages settings](https://github.com/trumanboyes/venturepennycapital.com/settings/pages)
+1. Open [Pages settings](https://github.com/trumanboyes/venturepenny.com/settings/pages)
 2. **Branch:** `main` → `/ (root)` → Save
 
-Until then the repo is at [github.com/trumanboyes/venturepennycapital.com](https://github.com/trumanboyes/venturepennycapital.com). After Pages is on it serves at [trumanboyes.github.io/venturepennycapital.com](https://trumanboyes.github.io/venturepennycapital.com/) and, with DNS, [venturepenny.com](https://venturepenny.com).
+The repo is at [github.com/trumanboyes/venturepenny.com](https://github.com/trumanboyes/venturepenny.com). After Pages is on it serves at [trumanboyes.github.io/venturepenny.com](https://trumanboyes.github.io/venturepenny.com/) and, with DNS, [venturepenny.com](https://venturepenny.com).
 
 ## Custom domain DNS
 
