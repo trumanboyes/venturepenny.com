@@ -46,7 +46,7 @@
         note + "\n\n—\n" + name + "\n" + email + (company ? "\n" + company : "")
       );
       window.location.href =
-        "mailto:hello@venturepennycapital.com?subject=" + subject + "&body=" + body;
+        "mailto:truman@venturepenny.com?subject=" + subject + "&body=" + body;
       formWrap.hidden = true;
       sent.hidden = false;
     });
